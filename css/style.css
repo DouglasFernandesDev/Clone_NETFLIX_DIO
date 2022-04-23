@@ -46,10 +46,11 @@ header nav a:hover {
 }
 
 /* elementos do filme principal */
+
 .main-movie {
     font-size: 16px;
-    background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)100%), url('/img/capa_house.jpg');
-    height: 400px;
+    background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)100%), url(../img/capa_house.jpg);
+    height: 500px;
     background-size: cover;
     display: flex;
     flex-direction: column;
